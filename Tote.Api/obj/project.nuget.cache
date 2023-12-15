@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I4/F/BjznCBBUysrzp5D92eu7hWI9g4GqulI5nLZ+dFMrvM0q+hwW4vN1gGtZXPgIdQn6C6jQjghtrBrH7bDnw==",
+  "success": true,
+  "projectFilePath": "D:\\Развитие\\LimeHd\\API\\Tote.Api\\Tote.Api\\Tote.Api\\Tote.Api.csproj",
+  "expectedPackageFiles": [
+    "D:\\Windows\\Nuget\\GlobalPackage\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "D:\\Windows\\Nuget\\GlobalPackage\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\Windows\\Nuget\\GlobalPackage\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "D:\\Windows\\Nuget\\GlobalPackage\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "D:\\Windows\\Nuget\\GlobalPackage\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "D:\\Windows\\Nuget\\GlobalPackage\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "D:\\Windows\\Nuget\\GlobalPackage\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
