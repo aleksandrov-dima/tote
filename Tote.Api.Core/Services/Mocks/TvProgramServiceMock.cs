@@ -1,10 +1,10 @@
 ﻿using Bogus;
 using Bogus.DataSets;
-using Tete.Api.Core.Models;
+using Tote.Api.Core.Models;
 
-namespace Tete.Api.Core.Services;
+namespace Tote.Api.Core.Services.Mocks;
 
-public class TvProgrammLogicMock : ITvProgrammLogic
+public class TvProgramServiceMock : ITvProgramService
 {
 	private readonly Randomizer _random = new();
 	private readonly Lorem _lorem = new("ru");

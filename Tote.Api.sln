@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tote.Api.Host", "Tote.Api.Host\Tote.Api.Host.csproj", "{B4E7E87E-330D-42D8-9761-EB5292CB252F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tete.Api.Core", "Tete.Api.Core\Tete.Api.Core.csproj", "{8BD02C14-F288-48EC-9FBF-4C92DEAD5CCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tote.Api.Core", "Tote.Api.Core\Tote.Api.Core.csproj", "{8BD02C14-F288-48EC-9FBF-4C92DEAD5CCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

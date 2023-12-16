@@ -1,12 +1,12 @@
 ﻿using System.Collections;
-using Tete.Api.Core.Models;
+using Tote.Api.Core.Models;
 
-namespace Tete.Api.Core.Services;
+namespace Tote.Api.Core.Services;
 
 /// <summary>
-/// Определяет методы дял работы с телевизионными каналами
+/// Сервис для работы с телевизионной программой
 /// </summary>
-public interface ITvProgrammLogic
+public interface ITvProgramService
 {
 	/// <summary>
 	/// Получить список каналов

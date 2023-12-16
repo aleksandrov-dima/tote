@@ -20,7 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Tete.Api.Core\Tete.Api.Core.csproj" />
+      <ProjectReference Include="..\Tote.Api.Core\Tote.Api.Core.csproj" />
     </ItemGroup>
 
     <ItemGroup>

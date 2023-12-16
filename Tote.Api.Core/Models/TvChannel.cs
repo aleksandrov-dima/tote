@@ -1,4 +1,4 @@
-﻿namespace Tete.Api.Core.Models;
+﻿namespace Tote.Api.Core.Models;
 
 /// <summary>
 /// Канал

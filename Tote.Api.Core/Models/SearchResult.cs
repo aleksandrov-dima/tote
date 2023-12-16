@@ -1,12 +1,10 @@
-﻿namespace Tete.Api.Core.Models;
+﻿namespace Tote.Api.Core.Models;
 
 /// <summary>
-/// Детальная информация о передаче
+/// Результат поиска
 /// </summary>
-public class TvShowDetail
+public class SearchResult
 {
-	public int Id { get; set; }
-
 	public int ChannelId { get; set; }
 
 	public string ChannelName { get; set; }
@@ -16,14 +14,10 @@ public class TvShowDetail
 	public string ShowName { get; set; }
 
 	public string ShortDescription { get; set; }
-
-	public string Description { get; set; }
 	
 	public DateTime StartDateTime { get; set; }
 
 	public DateTime EndDateTime { get; set; }
-	
-	public string[] Genres { get; set; }
 	
 	public string Url { get; set; }
 }
